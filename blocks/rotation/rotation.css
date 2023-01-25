@@ -6,6 +6,6 @@
     transform: rotate(360deg);
   }
 }
-.kaufman__triangle_rotation {
-  animation: rotation 20s ease-in-out infinite;
+.rotation{
+animation: rotation 20s linear infinite;
 }
